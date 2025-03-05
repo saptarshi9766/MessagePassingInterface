@@ -4,7 +4,7 @@ Author: Saptarshi Mandal
 Naive Parallalization. 
 No point to point communication involved. 
 
-To compile: mpicc HelloWorldMPInaive.c
+To compile: mpicc MPI_HelloWorld1.c
 To run    : mpirun -np 4 a.out , Note: 4 is the number of processes     
 */
 #include <stdio.h>
